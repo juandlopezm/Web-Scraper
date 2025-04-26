@@ -1,0 +1,14 @@
+Características principales:
+
+Extracción dinámica con Selenium desde tablas cargadas por JavaScript.
+Navegación automática por múltiples páginas mediante detección del botón "Siguiente".
+API Flask para servir los datos de forma estructurada.
+Preparada para desplegarse fácilmente en plataformas como Render o Railway, usando Gunicorn como servidor WSGI.
+
+Tecnologías usadas:
+
+Python 3
+Flask
+Selenium WebDriver
+WebDriver Manager
+Gunicorn (para despliegue en producción)
